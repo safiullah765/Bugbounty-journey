@@ -1,2 +1,2 @@
 # Bugbounty-journey
-My bug bounty learning journey, notes, scripts, and practice PoCs.
+My step-by-step bug bounty learning journey with daily notes, recon outputs, and reports.
