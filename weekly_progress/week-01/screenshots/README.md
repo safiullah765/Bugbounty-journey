@@ -2,12 +2,40 @@
 
 ### Kali Linux
 
-![Kali Linux](weekly_progress/week-01/screenshots/kali-linux.png)
+![Kali Linux](screenshots/kali-linux.png)
 
-### Burp Suite
+---
 
-![Burp Suite](screenshots/burp-suite.png)
+### Burp Suite Community Edition
 
-### TryHackMe
+![Burp Suite](screenshots/burp-suite-installed.png)
 
-![TryHackMe](screenshots/tryhackme-owasp.png)
+---
+
+### Firefox Developer Tools
+
+![Firefox Developer Tools](screenshots/firefox-devtools.png)
+
+---
+
+### PortSwigger Academy Account
+
+![PortSwigger Academy](screenshots/portswigger-account.png)
+
+---
+
+### TryHackMe - OWASP Top 10 2025 – IAAA Failure
+
+![TryHackMe Room](screenshots/OWASP%20Top%2010%202025_%20IAAA%20Failures.png)
+
+---
+
+### HackerOne Account
+
+![HackerOne](screenshots/hackerone-account.png)
+
+---
+
+### Bugcrowd Account
+
+![Bugcrowd](screenshots/bugcrowd-account.png)
