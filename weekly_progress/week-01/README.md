@@ -1,4 +1,4 @@
-# Week 01
+# Week 1 – Bug Bounty Journey
 
 ## Goal
 
