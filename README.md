@@ -4,24 +4,25 @@
 ## Background
 
 - Aspiring Cybersecurity Engineer
-- Focus: Web Application Security
+- Focus: Web & API Security
 - Learning through labs, platforms, and real-world methodology
 
 ## What this repo contains
 
 - Weekly learning notes (organized in `weekly_progress/`)
 - Tool setup & workflows
-- Lab practice (TryHackMe & PortSwigger)
+- Lab practice (PortSwigger & TryHackMe)
 - Checklists & learning methodology
-- Bug bounty learning progress
+- Personal notes & resources
 
 ## Current Status
 
 - Week 1 completed
 - Learning environment ready
 - Platforms & labs set up
-- Completed first TryHackMe lab
+- Burp Suite configured
 - Started PortSwigger Web Security Academy
+- Completed first TryHackMe security lab
 - Following a structured weekly learning plan
 
 ## Disclaimer
@@ -30,5 +31,5 @@ All testing is performed only on authorized targets and labs. No sensitive infor
 
 ## About
 
-My bug bounty learning journey, notes, scripts, and practice labs.
+My Bug Bounty learning journey, notes, scripts, and practice labs.
 ```
