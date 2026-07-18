@@ -1,9 +1,10 @@
+```markdown
 # 🛡️ Bug Bounty Journey
 
 ## Background
 
 - Aspiring Cybersecurity Engineer
-- Focus: Web & API Security
+- Focus: Web Application Security
 - Learning through labs, platforms, and real-world methodology
 
 ## What this repo contains
@@ -19,17 +20,9 @@
 - Week 1 completed
 - Learning environment ready
 - Platforms & labs set up
-- Burp Suite configured
-- Completed first TryHackMe room
+- Completed first TryHackMe lab
 - Started PortSwigger Web Security Academy
 - Following a structured weekly learning plan
-
-## Proof of Learning
-
-- **Weeks Completed:** 1
-- **TryHackMe Rooms:** 1
-- **PortSwigger Theory Modules:** 3
-- **PortSwigger Labs:** 0
 
 ## Disclaimer
 
@@ -38,3 +31,4 @@ All testing is performed only on authorized targets and labs. No sensitive infor
 ## About
 
 My bug bounty learning journey, notes, scripts, and practice labs.
+```
