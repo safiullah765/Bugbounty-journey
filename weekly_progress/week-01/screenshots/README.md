@@ -2,7 +2,7 @@
 
 ### Kali Linux
 
-![Kali Linux](screenshots/kali-linux.png)
+![Kali Linux](kali-linux.png)
 
 ---
 
