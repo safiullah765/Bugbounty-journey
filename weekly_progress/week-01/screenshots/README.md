@@ -2,7 +2,7 @@
 
 ### Kali Linux
 
-![Kali Linux](screenshots/kali-linux.png)
+![Kali Linux](weekly_progress/week-01/screenshots/kali-linux.png)
 
 ### Burp Suite
 
