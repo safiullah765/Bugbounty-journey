@@ -8,8 +8,7 @@
 
 ## Burp Suite Community Edition
 
-![Burp Suite](OWASP Top 10 2025 _ IAAA Failures.png)
-
+![Burp Suite](burp-suite-installed.png)
 ---
 
 ## Firefox Developer Tools
