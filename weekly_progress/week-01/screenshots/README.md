@@ -8,7 +8,7 @@
 
 ## Burp Suite Community Edition
 
-![Burp Suite](burp-suite-installed.png.png)
+![Burp Suite](burp-suite-installed.png)
 
 ---
 
