@@ -16,13 +16,14 @@
 
 ## Current Status
 
-* Week 1 completed
+* Week 2 completed
 * Learning environment ready
 * Platforms & labs set up
 * Burp Suite configured
 * Completed first TryHackMe security lab
 * Started PortSwigger Web Security Academy
 * Following a structured weekly learning plan
+* Android Pen-testing Setup in android studio completed 
 
 ## Disclaimer
 
