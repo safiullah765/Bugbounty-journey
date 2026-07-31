@@ -8,8 +8,7 @@
 
 ## Burp Suite Community Edition
 
-![Burp Suite](burp-suite-installed.png)
-
+![Burp Suite](<burp-suite-installed.png>)
 ---
 
 ## Firefox Developer Tools
