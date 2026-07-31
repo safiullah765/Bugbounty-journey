@@ -26,8 +26,7 @@
 
 ## TryHackMe - OWASP Top 10 2025 | IAAA Failures
 
-![TryHackMe Room](OWASP%Top%10%2025%_%IAAA%Failures.png)
-
+![OWASP Top 10 2025](OWASP%20Top%2010%202025%20_%20IAAA%20Failures.png)
 ---
 
 ## HackerOne Account
