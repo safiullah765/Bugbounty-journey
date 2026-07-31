@@ -8,7 +8,7 @@
 
 ## Burp Suite Community Edition
 
-![Burp Suite](burp-suite-installed.png)
+![Burp Suite](OWASP Top 10 2025 _ IAAA Failures.png)
 
 ---
 
