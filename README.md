@@ -16,14 +16,34 @@
 
 ## Current Status
 
-* Week 2 completed
+* Week 3 completed
 * Learning environment ready
 * Platforms & labs set up
 * Burp Suite configured
 * Completed first TryHackMe security lab
+* Completed TryHackMe: **OWASP Top 10 2025: Application Design Flaws** room
 * Started PortSwigger Web Security Academy
 * Following a structured weekly learning plan
 * Android Pen-testing Setup in android studio completed 
+
+## PortSwigger Academy
+
+### Theory
+
+- Internet
+- Client vs Server
+- Browser vs Server
+
+Status: ✅ Completed
+
+### Practical
+
+- Installed Burp Suite
+- Installed Firefox
+- Explored Browser Developer Tools
+- Inspected Network tab on multiple websites
+
+Status: ✅ Completed
 
 ## Disclaimer
 
