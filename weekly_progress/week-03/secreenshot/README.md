@@ -1,7 +1,7 @@
 # 📸 Screenshots & Evidence
 
 ## Burp Suite Installation
-![BurpSuite Installed](BurpSuite%20Installed%20.png)
+![BurpSuite Installed](BurpSuit%20Installed%20.png)
 
 ---
 
