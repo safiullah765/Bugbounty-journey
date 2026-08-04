@@ -36,4 +36,4 @@
 ---
 
 ## TryHackMe Room Completion
-![OWASP Top 10 Application Design Flaws](OWASP%Top%10%2025%Application%Design%Flaws.png)
+![OWASP Top 10 Application Design Flaws](OWASP Top 10 2025 Application Design Flaws.png)
