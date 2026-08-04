@@ -1,7 +1,7 @@
 # 📸 Screenshots & Evidence
 
 ## Burp Suite Installation
-![BurpSuite Installed](BurpSuit%20Installed%20.png)
+![BurpSuite Installed](BurpSuite%20Installed%20.png)
 
 ---
 
@@ -31,9 +31,9 @@
 ---
 
 ## OWASP Broken Web Applications Setup
-![OWASP Broken Web Installed](owasp broken web installed.png)
+![OWASP Broken Web Installed](owasp_broken_web_installed.png)
 
 ---
 
 ## TryHackMe Room Completion
-![OWASP Top 10 Application Design Flaws](OWASP Top 10 2025 Application Design Flaws.png)
+![OWASP Top 10 Application Design Flaws](OWASP%20Top%2010%202025%20Application%20Design%20Flaws.png)
