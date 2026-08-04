@@ -31,7 +31,7 @@
 ---
 
 ## OWASP Broken Web Applications Setup
-![OWASP Broken Web Installed](owasp_broken_web_installed.png)
+![OWASP Broken Web Installed](owasp%broken%web%installed.png)
 
 ---
 
